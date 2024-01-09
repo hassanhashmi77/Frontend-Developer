@@ -1,0 +1,19 @@
+.clockbackground{
+    height: 35vh;
+    width: 35vh;
+    box-shadow: 67px;
+    background: #F3F3F3;
+    border-radius: 50%;
+}
+.hoursImage{
+    position: relative;
+    top: 37px;
+    left: 34px;
+}
+.minutsimage{
+    position: relative;
+    top: 0px;
+    left: 101px;
+    height: 82px;
+    transform: rotate(20deg);
+}
