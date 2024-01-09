@@ -21,7 +21,6 @@ export class AddTaskComponent implements OnInit {
       this.hours = date.getHours()
       this.minuts = date.getMinutes()
       this.second = date.getSeconds()
-      // console.log(this.hours,this.minuts,this.second )
     }, 1000);
   }
 
